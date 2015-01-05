@@ -1,4 +1,4 @@
 angular-flux
 ============
 
-Small implementation of flux architecture in Angular.js.
+Small wrapper of and Angular.js Service around Facebok Flux Dispatcher.
