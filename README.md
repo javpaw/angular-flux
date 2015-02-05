@@ -1,4 +1,4 @@
 angular-flux
 ============
 
-Small wrapper of and Angular.js Service around Facebok Flux Dispatcher.
+Small wrapper of an Angular.js Service around Facebok Flux Dispatcher.
